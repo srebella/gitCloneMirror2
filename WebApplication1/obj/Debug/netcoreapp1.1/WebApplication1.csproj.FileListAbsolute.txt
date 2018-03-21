@@ -8,3 +8,15 @@ c:\users\santiago\documents\visual studio 2017\Projects\WebApplication1\WebAppli
 c:\users\santiago\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.AssemblyInfo.cs
 c:\users\santiago\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.dll
 c:\users\santiago\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.pdb
+C:\Users\Santiago\Documents\gitCloneMirror1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.deps.json
+C:\Users\Santiago\Documents\gitCloneMirror1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.runtimeconfig.json
+C:\Users\Santiago\Documents\gitCloneMirror1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\Santiago\Documents\gitCloneMirror1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.dll
+C:\Users\Santiago\Documents\gitCloneMirror1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.pdb
+C:\Users\Santiago\Documents\gitCloneMirror1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\Documents\gitCloneMirror1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Documents\gitCloneMirror1\WebApplication1\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\Santiago\Documents\gitCloneMirror1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Santiago\Documents\gitCloneMirror1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.AssemblyInfo.cs
+C:\Users\Santiago\Documents\gitCloneMirror1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.dll
+C:\Users\Santiago\Documents\gitCloneMirror1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.pdb
