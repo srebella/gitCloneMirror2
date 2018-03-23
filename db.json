@@ -7,12 +7,6 @@
     "stadiums_city": "Moscow",
     "stadiums_lat": "55.715765",
     "stadiums_lng": "37.5515217",
-    "tvchannels_id": "",
-    "tvchannels_name": "",
-    "tvchannels_icon": "",
-    "teams_id": "",
-    "teams_name": "",
-    "teams_iso2": ""
   },
   {
     "stadiums_id": "2",
@@ -20,12 +14,6 @@
     "stadiums_city": "Moscow",
     "stadiums_lat": "55.817765",
     "stadiums_lng": "37.4403630",
-    "tvchannels_id": "",
-    "tvchannels_name": "",
-    "tvchannels_icon": "",
-    "teams_id": "",
-    "teams_name": "",
-    "teams_iso2": ""
   },
   {
     "stadiums_id": "3",
@@ -33,12 +21,6 @@
     "stadiums_city": "Saint Petersburg",
     "stadiums_lat": "59.972740",
     "stadiums_lng": "30.2214080",
-    "tvchannels_id": "",
-    "tvchannels_name": "",
-    "tvchannels_icon": "",
-    "teams_id": "",
-    "teams_name": "",
-    "teams_iso2": ""
   },
   {
     "stadiums_id": "4",
@@ -46,12 +28,6 @@
     "stadiums_city": "Kaliningrad",
     "stadiums_lat": "54.698157",
     "stadiums_lng": "20.5338590",
-    "tvchannels_id": "",
-    "tvchannels_name": "",
-    "tvchannels_icon": "",
-    "teams_id": "",
-    "teams_name": "",
-    "teams_iso2": ""
   },
   {
     "stadiums_id": "5",
@@ -59,12 +35,6 @@
     "stadiums_city": "Kazan",
     "stadiums_lat": "55.820983",
     "stadiums_lng": "49.1609660",
-    "tvchannels_id": "",
-    "tvchannels_name": "",
-    "tvchannels_icon": "",
-    "teams_id": "",
-    "teams_name": "",
-    "teams_iso2": ""
   },
   {
     "stadiums_id": "6",
@@ -72,12 +42,6 @@
     "stadiums_city": "Nizhny Novgorod",
     "stadiums_lat": "56.337287",
     "stadiums_lng": "43.9632510",
-    "tvchannels_id": "",
-    "tvchannels_name": "",
-    "tvchannels_icon": "",
-    "teams_id": "",
-    "teams_name": "",
-    "teams_iso2": ""
   },
   {
     "stadiums_id": "7",
@@ -85,12 +49,6 @@
     "stadiums_city": "Samara",
     "stadiums_lat": "53.278146",
     "stadiums_lng": "50.2388540",
-    "tvchannels_id": "",
-    "tvchannels_name": "",
-    "tvchannels_icon": "",
-    "teams_id": "",
-    "teams_name": "",
-    "teams_iso2": ""
   },
   {
     "stadiums_id": "8",
@@ -98,12 +56,6 @@
     "stadiums_city": "Volgograd",
     "stadiums_lat": "48.734195",
     "stadiums_lng": "44.5483450",
-    "tvchannels_id": "",
-    "tvchannels_name": "",
-    "tvchannels_icon": "",
-    "teams_id": "",
-    "teams_name": "",
-    "teams_iso2": ""
   },
   {
     "stadiums_id": "9",
@@ -111,12 +63,6 @@
     "stadiums_city": "Saransk",
     "stadiums_lat": "54.181795",
     "stadiums_lng": "45.2038510",
-    "tvchannels_id": "",
-    "tvchannels_name": "",
-    "tvchannels_icon": "",
-    "teams_id": "",
-    "teams_name": "",
-    "teams_iso2": ""
   },
   {
     "stadiums_id": "10",
@@ -124,12 +70,6 @@
     "stadiums_city": "Rostov-on-Don",
     "stadiums_lat": "47.209581",
     "stadiums_lng": "39.7384240",
-    "tvchannels_id": "",
-    "tvchannels_name": "",
-    "tvchannels_icon": "",
-    "teams_id": "",
-    "teams_name": "",
-    "teams_iso2": ""
   },
   {
     "stadiums_id": "11",
@@ -137,12 +77,6 @@
     "stadiums_city": "Sochi",
     "stadiums_lat": "43.402011",
     "stadiums_lng": "39.9557090",
-    "tvchannels_id": "",
-    "tvchannels_name": "",
-    "tvchannels_icon": "",
-    "teams_id": "",
-    "teams_name": "",
-    "teams_iso2": ""
   },
   {
     "stadiums_id": "12",
@@ -150,12 +84,6 @@
     "stadiums_city": "Yekaterinburg",
     "stadiums_lat": "56.832490",
     "stadiums_lng": "60.5735850",
-    "tvchannels_id": "1",
-    "tvchannels_name": "DR1 Danmark",
-    "tvchannels_icon": "",
-    "teams_id": "",
-    "teams_name": "",
-    "teams_iso2": ""
   },
   {
     "stadiums_id": "12",
@@ -163,12 +91,6 @@
     "stadiums_city": "Yekaterinburg",
     "stadiums_lat": "56.832490",
     "stadiums_lng": "60.5735850",
-    "tvchannels_id": "2",
-    "tvchannels_name": "TV2 Danmark",
-    "tvchannels_icon": "",
-    "teams_id": "1",
-    "teams_name": "Russia",
-    "teams_iso2": "ru"
   }
  ],
  
@@ -200,7 +122,7 @@
     {
       "team_id": "5",
       "group_id": "2",
-      "name": "España",
+      "name": "EspaÃ±a",
       "trophies": "1"
     },
     {
